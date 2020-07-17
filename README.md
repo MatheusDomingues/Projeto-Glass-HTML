@@ -11,24 +11,10 @@ Neste projeto, foi utilizado apenas as tecnologias:
 
 ## Instalação
 
-Você precisa ter [Node.js](https://nodejs.org) em sua máquina para clonar este repositório:
+Apenas digite o comando:
 
 ```
 $ git clone https://github.com/MatheusDomingues/Projeto-Glass-HTML.git
 ```
 
-Depois disso, acesse a pasta do projeto e instale as dependências executando o seguinte comando:
-
-```
-$ npm install # ou yarn install
-```
-
-## Executando a aplicação
-
-Estando na pasta do projeto, execute o comando abaixo para inicializar a aplicação.
-
-```
-$ npm start # ou yarn start
-```
-
-Agora basta acessar localhost:3000
+Depois disso, basta acessar a página que deseja ver com VS Code Watch in Chrome no seu [VSCode](https://code.visualstudio.com/download).
