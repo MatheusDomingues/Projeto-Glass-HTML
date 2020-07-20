@@ -13,7 +13,7 @@ Neste projeto, foi utilizado apenas as tecnologias:
 
 Apenas digite o comando:
 
-```
+```sh
 $ git clone https://github.com/MatheusDomingues/Projeto-Glass-HTML.git
 ```
 
